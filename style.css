@@ -1,0 +1,13 @@
+h1,h3{
+    color: brown;
+    border: 3px solid red;
+    border-radius: 6px;
+    text-align: center;
+}
+h4{background-color: azure;
+    text-size-adjust: 20px;
+    color: rgba(70, 57, 57, 0.872);
+    border: 5px double rgba(236, 53, 53, 0.831);
+    border-radius: 6px;
+    text-align: center;
+}
